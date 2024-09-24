@@ -9,4 +9,9 @@ https://youtu.be/myVgyitFzrA
 
 **(3)【构造Prompt的26条技巧】大模型应用开发基础如何有效构造prompt，掌握核心心法，牢记指令具体、信息丰富、尽量少歧义**                   
 https://www.bilibili.com/video/BV1LwpAeUEPN/?vd_source=30acb5331e4f5739ebbad50f7cc6b949                   
-https://youtu.be/LaU-xd-5aIE                
+https://youtu.be/LaU-xd-5aIE            
+
+**(4)【AGI入门基础- Agent核心模块流程介绍】Agent基础概念、设计规范、大模型能力要求、核心模块设计流程、开发框架及框架应用案例介绍**                   
+https://www.bilibili.com/video/BV1KQsaeREdw/?vd_source=30acb5331e4f5739ebbad50f7cc6b949             
+https://youtu.be/AMnJEJVyVMU                
+
